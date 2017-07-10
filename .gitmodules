@@ -1,12 +1,16 @@
 [submodule "tech"]
 	path = tech
 	url = git@github.com:isysd/tech.git
+	branch = isysd
 [submodule "life"]
 	path = life
 	url = git@github.com:isysd/life.git
+	branch = isysd
 [submodule "media"]
 	path = media
 	url = https://github.com/isysd/media.git
+	branch = isysd
 [submodule "keys"]
 	path = keys
 	url = https://github.com/isysd/keys.git
+	branch = isysd
