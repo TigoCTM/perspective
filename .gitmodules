@@ -16,3 +16,12 @@
 	url = git@github.com:isysd/tech.git
 	branch = isysd
 
+[submodule "Pictures"]
+	path = Pictures
+	url = git@bitbucket.org:guldgames/pictures.git
+[submodule "devices"]
+	path = devices
+	url = git@bitbucket.org:guldgames/devices.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@bitbucket.org:isysd/dotfiles.git
