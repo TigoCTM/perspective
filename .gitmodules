@@ -1,0 +1,15 @@
+[submodule "io"]
+	path = io
+	url = git@bitbucket.org:isysd/io.git
+[submodule "Documents"]
+	path = Documents
+	url = git@bitbucket.org:isysd/documents.git
+[submodule "keys"]
+	path = keys
+	url = git@github.com:isysd/keys.git
+[submodule "ledger"]
+	path = ledger
+	url = git@github.com:isysd/ledger-1.git
+[submodule "tech"]
+	path = tech
+	url = git@github.com:isysd/tech.git
