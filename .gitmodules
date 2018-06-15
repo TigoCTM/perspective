@@ -28,3 +28,6 @@
 [submodule ".password-store"]
 	path = .password-store
 	url = git@bitbucket.org:isysd/.password-store.git
+[submodule "blocktree"]
+	path = blocktree
+	url = git@bitbucket.org:isysd/blocktree.git
