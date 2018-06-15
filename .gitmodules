@@ -1,21 +1,18 @@
 [submodule "io"]
 	path = io
-	url = git@bitbucket.org:isysd/io.git
+	url = git@bitbucket.org:guld/io.git
 [submodule "Documents"]
 	path = Documents
-	url = git@bitbucket.org:isysd/documents.git
+	url = git@bitbucket.org:guld/documents.git
 [submodule "keys"]
 	path = keys
-	url = git@github.com:isysd/keys.git
+	url = git@github.com:guld/keys.git
 [submodule "ledger"]
 	path = ledger
-	url = git@github.com:isysd/ledger-1.git
-	branch = isysd
+	url = git@github.com:guld/ledger.git
 [submodule "tech"]
 	path = tech
-	url = git@github.com:isysd/tech.git
-	branch = isysd
-
+	url = git@github.com:guld/tech.git
 [submodule "Pictures"]
 	path = Pictures
 	url = git@bitbucket.org:guldgames/pictures.git
@@ -24,7 +21,7 @@
 	url = git@bitbucket.org:guldgames/devices.git
 [submodule "dotfiles"]
 	path = dotfiles
-	url = git@bitbucket.org:isysd/dotfiles.git
+	url = git@bitbucket.org:guld/dotfiles.git
 [submodule ".password-store"]
 	path = .password-store
-	url = git@bitbucket.org:isysd/.password-store.git
+	url = git@bitbucket.org:guld/.password-store.git
