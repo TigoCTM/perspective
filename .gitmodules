@@ -15,13 +15,16 @@
 	url = git@github.com:guld/tech.git
 [submodule "Pictures"]
 	path = Pictures
-	url = git@bitbucket.org:guldgames/pictures.git
+	url = git@bitbucket.org:guld/pictures.git
 [submodule "devices"]
 	path = devices
-	url = git@bitbucket.org:guldgames/devices.git
+	url = git@bitbucket.org:guld/devices.git
 [submodule "dotfiles"]
 	path = dotfiles
 	url = git@bitbucket.org:guld/dotfiles.git
 [submodule ".password-store"]
 	path = .password-store
 	url = git@bitbucket.org:guld/.password-store.git
+[submodule "blocktree"]
+	path = blocktree
+	url = git@bitbucket.org:guld/blocktree.git
