@@ -25,3 +25,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = git@bitbucket.org:isysd/dotfiles.git
+[submodule ".password-store"]
+	path = .password-store
+	url = git@bitbucket.org:isysd/.password-store.git
