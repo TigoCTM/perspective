@@ -1,9 +1,11 @@
 [user]
-	email = public@iramiller.com
-	name = Ira Miller
-	username = isysd
-	signingkey = C7EA0E59D0660BF6848614B6441BDDD420F44729
+	email = cindy@coinapult.com
+	name = cz
+	username = cz
+        signingkey = 756C6467EF8683A1B8E5C9551EB8402A1A1B35B6
 [commit]
-	gpgsign = true
+        sign = true
 [alias]
 	pushall = !git remote | xargs -L1 -I R git push R $2
+[merge "ours"]
+	driver = true
