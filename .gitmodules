@@ -9,19 +9,16 @@
 	url = git@github.com:isysd/keys.git
 [submodule "ledger"]
 	path = ledger
-	url = git@github.com:isysd/ledger-1.git
-	branch = isysd
+	url = git@github.com:isysd/ledger.git
 [submodule "tech"]
 	path = tech
 	url = git@github.com:isysd/tech.git
-	branch = isysd
-
 [submodule "Pictures"]
 	path = Pictures
-	url = git@bitbucket.org:guldgames/pictures.git
+	url = git@bitbucket.org:isysd/pictures.git
 [submodule "devices"]
 	path = devices
-	url = git@bitbucket.org:guldgames/devices.git
+	url = git@bitbucket.org:isysd/devices.git
 [submodule "dotfiles"]
 	path = dotfiles
 	url = git@bitbucket.org:isysd/dotfiles.git
