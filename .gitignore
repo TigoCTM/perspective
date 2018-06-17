@@ -1,6 +1,4 @@
 !.gitignore
-!.gitmodules
-!.gitconfig
 !Audio
 !blocktree
 !Documents
@@ -12,4 +10,3 @@
 !tech
 !Videos
 *
-.gitmodules
