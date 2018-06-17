@@ -1,30 +1,30 @@
 [submodule "io"]
 	path = io
-	url = git@bitbucket.org:cindy-zimmerman/io.git
+	url = git@bitbucket.org:guld/io.git
 [submodule "Documents"]
 	path = Documents
-	url = git@bitbucket.org:cindy-zimmerman/documents.git
+	url = git@bitbucket.org:guld/documents.git
 [submodule "keys"]
 	path = keys
-	url = git@github.com:cindy-zimmerman/keys.git
+	url = git@github.com:guld/keys.git
 [submodule "ledger"]
 	path = ledger
-	url = git@github.com:cindy-zimmerman/ledger.git
+	url = git@github.com:guld/ledger.git
 [submodule "tech"]
 	path = tech
-	url = git@github.com:cindy-zimmerman/tech.git
+	url = git@github.com:guld/tech.git
 [submodule "Pictures"]
 	path = Pictures
-	url = git@bitbucket.org:cindy-zimmerman/pictures.git
+	url = git@bitbucket.org:guld/pictures.git
 [submodule "devices"]
 	path = devices
-	url = git@bitbucket.org:cindy-zimmerman/devices.git
+	url = git@bitbucket.org:guld/devices.git
 [submodule "dotfiles"]
 	path = dotfiles
-	url = git@bitbucket.org:cindy-zimmerman/dotfiles.git
+	url = git@bitbucket.org:guld/dotfiles.git
 [submodule ".password-store"]
 	path = .password-store
-	url = git@bitbucket.org:cindy-zimmerman/.password-store.git
+	url = git@bitbucket.org:guld/.password-store.git
 [submodule "blocktree"]
 	path = blocktree
-	url = git@bitbucket.org:cindy-zimmerman/blocktree.git
+	url = git@bitbucket.org:guld/blocktree.git
