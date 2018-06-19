@@ -6,13 +6,13 @@
 	url = git@bitbucket.org:guld/documents.git
 [submodule "keys"]
 	path = keys
-	url = git@github.com:guld/keys.git
+	url = git@bitbucket.org:guld/keys.git
 [submodule "ledger"]
 	path = ledger
-	url = git@github.com:guld/ledger.git
+	url = git@bitbucket.org:guld/ledger.git
 [submodule "tech"]
 	path = tech
-	url = git@github.com:guld/tech.git
+	url = git@bitbucket.org:guld/tech.git
 [submodule "Pictures"]
 	path = Pictures
 	url = git@bitbucket.org:guld/pictures.git
@@ -26,5 +26,5 @@
 	path = .password-store
 	url = git@bitbucket.org:guld/.password-store.git
 [submodule "blocktree"]
-	path = blocktree
+	path = .blocktree
 	url = git@bitbucket.org:guld/blocktree.git
