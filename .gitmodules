@@ -25,6 +25,6 @@
 [submodule ".password-store"]
 	path = .password-store
 	url = git@bitbucket.org:guld/.password-store.git
-[submodule "blocktree"]
+[submodule ".blocktree"]
 	path = .blocktree
-	url = git@bitbucket.org:guld/blocktree.git
+	url = git@bitbucket.org:guld/.blocktree.git
